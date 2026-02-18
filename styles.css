@@ -7,3 +7,11 @@ html{
 body *{
   color: white;
 }
+#box{
+  width:auto;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  hight:auto;
+  background-color:black;
+}
