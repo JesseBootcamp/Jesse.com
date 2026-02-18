@@ -14,4 +14,5 @@ body *{
   align-items:center;
   hight:auto;
   background-color:black;
+  border-radius:10px;
 }
