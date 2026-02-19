@@ -1,6 +1,6 @@
 const contact = document.getElementById("form");
 
-func show()
+function show()
 {
   contact.style.visibility = "hidden";
 }
