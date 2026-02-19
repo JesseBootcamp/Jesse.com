@@ -4,7 +4,7 @@ html{
   align-items:center;
   background-color:#2a334b;
 }
-p, h1, h2, h3, form label{
+p, h1, h2, h3{
   color: white;
 }
 #box{
@@ -16,3 +16,5 @@ p, h1, h2, h3, form label{
   background-color:black;
   border-radius:10px;
 }
+form label{
+  color: white;
