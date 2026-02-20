@@ -1,5 +1,4 @@
 html{
-  background-image: url('different-cuts-meat-black-background_875722-18330.jpg');
   display:flex;
   justify-content:center;
   align-items:center;
@@ -19,3 +18,10 @@ p, h1, h2, h3{
 }
 form label{
   color: white;
+body {
+    background-image: url("background.jpg");
+  background-size: cover;        /* Makes image cover entire screen */
+  background-repeat: no-repeat;  /* Prevents repeating */
+  background-position: center;   /* Centers the image */
+  height: 100vh;                 /* Full viewport height */
+}
