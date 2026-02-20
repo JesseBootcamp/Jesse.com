@@ -1,18 +1,18 @@
 html, body {
   margin: 0;
   padding: 0;
-  height: 100%;
+  min-height: 100%;
 }
 
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
+  padding: 40px 20px;
 
-  background-image: url("different-cuts-meat-black-background_875722-18330.png");
-  background-size: cover;        /* Fill the screen */
-  background-repeat: no-repeat;  /* No tiling */
-  background-position: center;   /* Center image */
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 p, h1, h2, h3 {
@@ -20,13 +20,12 @@ p, h1, h2, h3 {
 }
 
 #box {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
+  display: inline-block;
+  text-align: left;
   padding: 20px;
   background-color: black;
   border-radius: 10px;
+  margin-top: 10px;
 }
 
 form label {
