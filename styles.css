@@ -16,7 +16,7 @@ body {
 }
 
 p, h1, h2, h3 {
-  color: dark green;
+  color:green;
 }
 
 #box {
@@ -29,5 +29,5 @@ p, h1, h2, h3 {
 }
 
 form label {
-  color: grey;
+  color:black;
 }
