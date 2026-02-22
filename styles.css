@@ -16,14 +16,14 @@ body {
 }
 
 p, h1, h2, h3 {
-  color:white;
+  color:"white";
 }
 
 #box {
   display: inline-block;
   text-align: left;
   padding: 20px;
-  background-color: "gray";
+  background-color: "white";
   border-radius: 30px;
   margin-top: 20px;
 }
