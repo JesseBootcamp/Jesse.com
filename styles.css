@@ -23,11 +23,11 @@ p, h1, h2, h3 {
   display: inline-block;
   text-align: left;
   padding: 20px;
-  background-color: white;
+  background-color: black;
   border-radius: 30px;
   margin-top: 10px;
 }
 
 form label {
-  color: grey;
+  color: white;
 }
