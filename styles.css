@@ -20,7 +20,7 @@ p, h1, h2, h3 {
 
 #box {
   display: inline-block;
-  text-align: left;
+  text-align: "center";
   padding: 20px;
   background-color: "black";
   border-radius: 30px;
