@@ -7,7 +7,7 @@ html, body {
 body {
   text-align: center;
   padding: 40px 10px
-  background-image: url("https://github.com/JesseBootcamp/Jesse.com/blob/main/background.png?raw=true")
+  background-image:png("background.png")
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
