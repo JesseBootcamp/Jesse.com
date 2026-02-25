@@ -1,4 +1,4 @@
-html, body {
+html{
   margin: 0;
   padding: 0;
   min-height: 100%;
@@ -7,7 +7,7 @@ html, body {
 body {
   text-align: center;
   padding: 40px 10px
-  background-image:png;("Rename different-cuts-meat-black-background_875722-18330.png to background.png")
+  background-image: url('background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -20,12 +20,13 @@ p, h1, h2, h3 {
 
 #box {
   display: inline-block;
-  text-align: "center";
+  text-align: center;
   padding: 20px;
-  background-color: "black";
+  background-color: black;
   border-radius: 30px;
   margin-top: 40px;
 }
 
 form label {
-  "color": "white"}
+  color: white;
+  }
