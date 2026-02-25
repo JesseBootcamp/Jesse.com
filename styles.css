@@ -6,7 +6,7 @@ html{
 
 body {
   text-align: center;
-  padding: 40px 10px
+  padding: 40px 10px;
   background-image: url('background.png');
   background-size: cover;
   background-repeat: no-repeat;
@@ -15,7 +15,7 @@ body {
 }
 
 p, h1, h2, h3 {
-  color:"white";
+  color: white;
 }
 
 #box {
@@ -29,4 +29,4 @@ p, h1, h2, h3 {
 
 form label {
   color: white;
-  }
+}
